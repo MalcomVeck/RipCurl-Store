@@ -1,5 +1,5 @@
 # Production Deployment
-  `__Lo podés ver acá__:https://rip-curl-store.vercel.app/`
+  ` __Lo podés ver acá__:https://rip-curl-store.vercel.app/ `
 
 
 
