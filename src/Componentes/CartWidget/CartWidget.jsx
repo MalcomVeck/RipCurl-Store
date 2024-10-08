@@ -6,7 +6,7 @@ const CartWidget = () => {
     const {cantidadTotal} = useContext(CarritoContext)
 
     return (
-        <div className="me-5">
+        <div className="me-5 mb-3">
             <Link to="/cart">
             <img src="https://cdn-icons-png.flaticon.com/512/687/687259.png" alt="bolso-compras" height="40"/>
             </Link> 
