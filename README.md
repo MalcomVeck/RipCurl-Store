@@ -4,8 +4,8 @@
   
 # Descripción del proyecto
 
-    Desarrollo de tienda online con carrito de compras, que incluye funciones de filtrado por categoría, gestión de productos y orden de compra almacenada en nube.
-    Emplea tecnologías como React.js y Firebase garantizando un rendimiento eficiente y una gestión de datos confiable.
+  Desarrollo de tienda online con carrito de compras, que incluye funciones de filtrado por categoría, gestión de productos y orden de compra almacenada en nube.
+  Emplea tecnologías como React.js y Firebase garantizando un rendimiento eficiente y una gestión de datos confiable.
 
 # Tecnologías & Dependencias
 
@@ -22,8 +22,8 @@
   
   - __React-router-dom__: Utilizado para la navegabilidad en el proyecto.
     
-  - __React-spinner__: Se utilizó para añadir indicadores de carga y animaciones, para mejorar la experiencia del usuario durante las operaciones asincrónicas.
-  - 
+  - __React-spinner__: Se utilizó para añadir indicadores de carga y animaciones, para mejorar la experiencia del usuario durante las operaciones asincrónicas. 
+  
   - __Firebase__: Firebase es una pieza clave para el proyecto, me permitió almacenar y gestionar los datos de mis productos y las órdenes realizadas por los clientes,
                   brindando confianza y la seguridad que caracteriza el respaldo de Google.
     
@@ -44,18 +44,16 @@
 ## Instalación
 
 __Paso 1__
-   - Crear una carpeta local para alojar el repositorio
+   - Crear una carpeta local para alojar el repositorio.
 
 __Paso 2__
    - Vaya a la carpeta creada y clone el repositorio:
 
     ` https://github.com/MalcomVeck/RipCurl-Store.git `
 
-    Con esto habrá creado la estructura de archivos y el contenido del Frontend de la aplicación.
-
 __Paso 3__
   - Si quiere modificar el código y ejecutar el proyecto localmente, ingrese a su editor de Código (Visual Studio Code).
-     Abra una ventana de terminal y ubíquese en la carpeta local que creó y dentro de ella en la carpeta ` "RipCurl-Store" `
+     Abra una ventana de terminal y ubíquese en la carpeta local que creó y dentro de ella en la carpeta "RipCurl-Store".
 
     Escriba `npm install`. Con eso habrá instalado todas las dependencias necesarias.
 
