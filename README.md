@@ -49,7 +49,7 @@ __Paso 1__
 __Paso 2__
    - Vaya a la carpeta creada y clone el repositorio:
 
-    `https://github.com/MalcomVeck/RipCurl-Store.git`
+    https://github.com/MalcomVeck/RipCurl-Store.git
 
 __Paso 3__
   - Si quiere modificar el código y ejecutar el proyecto localmente, ingrese a su editor de Código (Visual Studio Code).
